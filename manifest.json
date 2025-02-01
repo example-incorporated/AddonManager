@@ -8,5 +8,9 @@
          "id": "519760564755365888"
       }
    ],
-   "color": "#00ffff"
+   "color": "#00ffff",
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_chat_bubble_16px"
+    }
 }

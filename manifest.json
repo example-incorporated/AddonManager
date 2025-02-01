@@ -9,7 +9,7 @@
       }
    ],
    "color": "#00ffff",
-    "main": "src/index.ts",
+    "main": "src/index.tsx",
     "vendetta": {
         "icon": "ic_chat_bubble_16px"
     }
